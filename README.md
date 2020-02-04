@@ -1,1 +1,3 @@
 # dice-game-DOM
+
+Javascript
